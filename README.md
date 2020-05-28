@@ -19,10 +19,10 @@
 > node main.js </br>
 
 2/ Or, your picture and default name:
-> node main.js "ex.png" </br>
+> node main.js "example.jpg" </br>
 
 3/ Or, your yictures and your Name:
-> node main.js "ex.png" "nameEx" </br>
+> node main.js "example.jpg" "nameEx" </br>
 
 ## NPM Package
 </br>
