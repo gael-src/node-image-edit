@@ -30,6 +30,7 @@
 https://www.npmjs.com/package/jimp
 </br>
 </br>
+#### My Personal Homepage:
 
 https://gael-src.github.io/
 </br>
