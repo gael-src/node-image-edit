@@ -11,8 +11,10 @@
 
 1/ Default pictures and default name:
 > $ node main.js </br>
+
 2/ Or, your picture and default name:
 > $ node main.js "example.jpg" </br>
+
 3/ Or, your yictures and your Name:
 > $ node main.js "example.jpg" "nameEx" </br>
 
